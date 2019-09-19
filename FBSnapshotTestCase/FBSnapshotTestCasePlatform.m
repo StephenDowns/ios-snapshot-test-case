@@ -9,6 +9,7 @@
 
 #import <FBSnapshotTestCase/FBSnapshotTestCasePlatform.h>
 #import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 BOOL FBSnapshotTestCaseIs64Bit(void)
 {
